@@ -1,4 +1,4 @@
-# Helmet Cameras
+# No Weight Gain
 Allows you not to gain weight from picking up items.
 
 # Features
@@ -6,5 +6,5 @@ Allows you not to gain weight from picking up items.
 
 # Releases
 
-# Version 1.0.0
+# Version 1.0.0.0
 - Release
